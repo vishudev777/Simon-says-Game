@@ -14,5 +14,5 @@ I accept contributions in the form of bug fixes and code improvements. If you wa
 My name is **Vikas Lokhande** and I am the creator of this game. I am a web developer with a passion for creating fun and interactive experiences for users. If you have any questions or suggestions about the game, do not hesitate to contact me through my social networks:
 
 - 🐤[Twitter](https://x.com/Im_Vikas_A_Webr)
-- 📘[Twitter](https://www.linkedin.com/in/vikas-lokhande-0a7a03216/)
+- 📘[Linkedin](https://www.linkedin.com/in/vikas-lokhande-0a7a03216/)
 - 🐈‍⬛[GitHub](https://github.com/vishudev777)
