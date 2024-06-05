@@ -5,7 +5,7 @@ Simon Says is a memory game in which the player must repeat a sequence of colors
 In order to play the game, the player must wait for a sequence of colors and sounds to be generated. The player must then repeat the sequence by pressing the corresponding buttons in the same order that they were lit. If the player makes a mistake, the game is over.
 
 # Technologies used!
-JavaScript 💛
+HTML, CSS, JavaScript 💛
 
 # Contributions🤝
 I accept contributions in the form of bug fixes and code improvements. If you want to contribute, simply fork the repository, make your changes, and submit a pull request. 🤘
